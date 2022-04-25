@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "pass": "admin",
+      "status": true
+    },
+    {
+      "id": 1,
+      "user": "admin2",
+      "pass": "admin2",
+      "status": false
+    }
+  ],
+  "products": [
+    {
+      "name": "kiwis",
+      "total": "1",
+      "description": "pepas",
+      "id": 1
+    },
+    {
+      "name": "peras",
+      "total": "2",
+      "description": "verdes",
+      "id": 3
+    },
+    {
+      "name": "manza",
+      "total": "4",
+      "description": "verdes",
+      "id": 4
+    },
+    {
+      "name": "bananas",
+      "total": "10",
+      "description": "de ecuador",
+      "id": 5
+    }
+  ]
+}
